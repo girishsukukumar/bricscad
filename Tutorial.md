@@ -1,13 +1,10 @@
 # BRICSCAD TUTORIALS
-<OL>
-<LI> REally good Tutorial for BCAD  Part 1
-https://www.youtube.com/watch?v=eZLrYyD38w8
-
-<LI> REally good Tutorial for BCAD  Part 2
-<LI> https://www.youtube.com/watch?v=B-JaT-my94U 
-<LI> https://www.youtube.com/watch?v=SwguR17XBzs Exercuses
-<LI> https://www.youtube.com/watch?v=Nb66OSHCybE 3D - Drawing 
-<LI> https://www.youtube.com/watch?v=DxMx_FcDQpM
+|No| Description| Link |
+|1| REally good Tutorial for BCAD  Part 1 | https://www.youtube.com/watch?v=eZLrYyD38w8|
+|2| REally good Tutorial for BCAD  Part 2 | https://www.youtube.com/watch?v=B-JaT-my94U |
+|3| Exercises | https://www.youtube.com/watch?v=SwguR17XBzs |
+|4| 3D drawing | https://www.youtube.com/watch?v=Nb66OSHCybE |
+|5|  | https://www.youtube.com/watch?v=DxMx_FcDQpM|
 
 <LI> BCAD Exercise
 https://www.youtube.com/watch?v=SwguR17XBzs
