@@ -5,6 +5,7 @@
 |2| REally good Tutorial for BCAD  Part 2 | https://www.youtube.com/watch?v=B-JaT-my94U |
 |3| Exercises | https://www.youtube.com/watch?v=SwguR17XBzs |
 |4| 3D drawing | https://www.youtube.com/watch?v=Nb66OSHCybE |
+|5| 3D drawing | https://www.youtube.com/watch?v=9WW0K06qwj4 |
 |5|  | https://www.youtube.com/watch?v=DxMx_FcDQpM|
 |6| BCAD Exercise | https://www.youtube.com/watch?v=SwguR17XBzs |
 |7|BricsCAD Isometric Drawing Basics Tutorial | https://www.youtube.com/watch?v=DxMx_FcDQpM&t=2s |
